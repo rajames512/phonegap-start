@@ -1,6 +1,6 @@
-PhoneGap-Start
----
+The MIGHTY Rich James App!
 
-A starting point for PhoneGap apps.
+This is first phone app from UK musician Rich James.
+It is a web based app for smartphones.
 
-To get started: fork this repo, modify the config.xml to match your details, and get building!
+I hope you enjoy it
