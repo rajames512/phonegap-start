@@ -25,9 +25,9 @@
 	<preference name="permissions" value="none"/>
 <preference name="disable-cursor" value="true" />
 <preference name="fullscreen" value="true" />
-<icon hover="false">
 
-	<icon src="rj.png" gap:role="default" />
+
+	<icon src="rj.png" gap:role="default" hover="false" />
 
 <!-- if a single splash screen is specified it will be used for all platforms.
     Multiple splash screens are recommended for iOS -->
