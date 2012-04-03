@@ -27,7 +27,7 @@
 <preference name="fullscreen" value="true" />
 
 
-	<icon src="rj.png" gap:role="default" hover="false" />
+	<icon src="rj.png" gap:role="default" hover="true" />
 
 <!-- if a single splash screen is specified it will be used for all platforms.
     Multiple splash screens are recommended for iOS -->
