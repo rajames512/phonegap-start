@@ -21,11 +21,18 @@
 		<gap:platform name="symbian.wrt" />
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
+	
+	<preference name="permissions" value="none"/>
+<preference name="disable-cursor" value="true" />
+<preference name="fullscreen" value="true" />
+<icon hover="false">
 
 	<icon src="rj.png" gap:role="default" />
 
-	<feature name="http://api.phonegap.com/1.0/geolocation"/>
-	<feature name="http://api.phonegap.com/1.0/network"/>
+<!-- if a single splash screen is specified it will be used for all platforms.
+    Multiple splash screens are recommended for iOS -->
+<gap:splash src="splash.png" />
+
 
 	<!-- sample preference specification -->
 	<!-- <preference name="autorotate" value="false" readonly="true"/> -->
